@@ -88,8 +88,6 @@ const controllBookmarks = function () {
   bookmarksView.render(model.state.bookmarks);
   //update the view
   recipeView.update(model.state.recipe);
-
-  console.log(model.state.recipe);
 };
 
 const init = function () {
