@@ -2,7 +2,7 @@
   "name": "forkify-dola",
   "version": "1.0.0",
   "description": "",
-  "main": "src/js/controller.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
